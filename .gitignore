@@ -1,0 +1,25 @@
+# Ignore frontend dependencies
+frontend/node_modules/
+node_modules/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# Database files
+*.sqlite3
+*.db
+
+# Environment variables / Secret keys
+.env
+.env.local
+
+# System & IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
