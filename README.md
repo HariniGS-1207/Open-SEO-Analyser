@@ -41,7 +41,7 @@ A modern web browser
    - Execute your main Python script (e.g., test_scrape.py or your primary backend app) to analyze a URL.
    - Open the frontend dashboard to view the generated data.
 4. **📝 Features (To-Do / Progress)**
-[x] Python-based web scraper implementation.
-[ ] Backend SEO metric evaluation (meta tags, headings, speed).
-[ ] Frontend UI integration for rendering reports
+- Python-based web scraper implementation.
+- Backend SEO metric evaluation (meta tags, headings, speed).
+- rontend UI integration for rendering reports
 
