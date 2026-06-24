@@ -15,6 +15,7 @@ A full-stack SEO Analysis tool built to scrape web pages, extract critical SEO m
 ├── frontend/         # Web dashboard interface (HTML/CSS/JS)
 ├── .gitignore        # Keeps the repository clean
 └── README.md         # Project documentation
+```
 
 🚀 Getting Started
 Prerequisites
@@ -44,13 +45,13 @@ git clone [https://github.com/HariniGS-1207/Open-SEO-Analyser.git](https://githu
 [ ] Backend SEO metric evaluation (meta tags, headings, speed)
 [ ] Frontend UI integration for rendering reports
 
----
+
 
 ### How to Save and Push Your New README
 
 Once you have created and saved this file locally, push it up to GitHub with these commands in your terminal:
 
-```bash
+
 # Stage the new README file
 git add README.md
 
